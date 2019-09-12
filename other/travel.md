@@ -123,9 +123,7 @@
 
 （说明：2个房间不在一起，但是很近，走路最多10分钟。）
 ```
-<center>
-<img src="../img/travel_001_meitu_1.jpg" width="90%" height="85%" />
-</center> 
+<img src="../img/travel_001_meitu_1.jpg" width="100%" height="95%" />
 
 ##### 出行
 ```

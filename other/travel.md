@@ -123,9 +123,9 @@
 
 （说明：2个房间不在一起，但是很近，走路最多10分钟。）
 ```
-![Image text](https://raw.githubusercontent.com/jingwangfei/jingtao/master/img/travel_001.jpg){:width="100px" height="100px"}
-![Image text](https://raw.githubusercontent.com/jingwangfei/jingtao/master/img/travel_002.jpg){:width="100px" height="100px"}
-![Image text](https://raw.githubusercontent.com/jingwangfei/jingtao/master/img/travel_003.jpg){:width="100px" height="100px"}
+![Image text](https://raw.githubusercontent.com/jingwangfei/jingtao/master/img/travel_001.jpg){:width="10px" height="10px"}
+![Image text](https://raw.githubusercontent.com/jingwangfei/jingtao/master/img/travel_002.jpg){:width="10px" height="10px"}
+![Image text](https://raw.githubusercontent.com/jingwangfei/jingtao/master/img/travel_003.jpg){:width="10px" height="10px"}
 
 ##### 出行
 ```

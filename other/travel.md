@@ -125,7 +125,7 @@
 ```
 <center>
 <img src="../img/travel_001_meitu_1.jpg" width="25%" height="25%" />
-</center>
+</center> 
 
 ##### 出行
 ```

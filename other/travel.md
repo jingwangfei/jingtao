@@ -124,8 +124,7 @@
 （说明：2个房间不在一起，但是很近，走路最多10分钟。）
 ```
 <center>
-<img src="https://raw.githubusercontent.com/jingwangfei/jingtao/master/img/travel_001.jpg" width="25%" height="25%" />
-$ $
+<img src="img/travel_001.jpg" width="25%" height="25%" />
 Figure 1. Lena
 </center>
 

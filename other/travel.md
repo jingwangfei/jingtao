@@ -141,4 +141,4 @@
 ##### 天气
 带上一个短袖 & 外套。
 如果3号爬长城，是非常冷的。
-<img src="../img/travel_004.jpg" width="100%" height="95%" />
+<img src="../img/travel_004.png" width="100%" height="95%" />
